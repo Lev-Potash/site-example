@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+      background-image: url(images/cd161fa08648e98df4f3f8949d0d37a7.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color: #464646;
+    }
+
+div#head_backgroung  {
+	background-color: rgba(255,255,255,0.50);
+	border-radius: 17px;
+	position: relative;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+div#contact{
+	background-color: rgba(255,255,255,0.50);
+	border-radius: 9px;
+	
+}
+
+div .thumbnail{
+background-color: rgba(255,255,255,0.70);	
+}
+
+p {
+	
+	font-family: 'Roboto', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+
+
